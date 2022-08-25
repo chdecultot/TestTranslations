@@ -4,7 +4,8 @@ export default {
     security_and_privacy: 'Security and privacy',
     jobs: 'Jobs',
     legal_mentions: 'Legal mentions',
-    become_a_partner: 'Become a partner'
+    become_a_partner: 'Become a partner',
+    become_a_customer: 'Become a customer'
   },
   index: {
     about: {
