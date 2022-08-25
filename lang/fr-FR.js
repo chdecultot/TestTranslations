@@ -96,7 +96,7 @@ export default {
     terms_label: 'J\'ai lu et j\'accepte les <a class="cursor-pointer hover:text-dokosBlue-default" href="/terms-and-conditions">conditions générales</a> du cloud Dokos',
     previous_step: 'Étape précédente',
     last_step: 'Dernière étape',
-    credit_card: 'Carte de crédit',
+    credit_card: 'Carte de débit',
     sepa: 'Virement SEPA',
     reverse_charge: 'Veuillez enregistrer votre numéro de TVA intracommunautaire pour activer le mécanisme d\'autoliquidation.',
     vat_number: 'Numéro de TVA intracommunautaire',
