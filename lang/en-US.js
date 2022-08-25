@@ -1,6 +1,6 @@
 export default {
   footer: {
-    terms_and_conditions: 'Terms and conditions',
+    terms_and_conditions: 'Terms and Conditions',
     security_and_privacy: 'Security and privacy',
     jobs: 'Jobs',
     legal_mentions: 'Legal mentions',
