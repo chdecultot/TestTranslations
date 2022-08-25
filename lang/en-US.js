@@ -8,7 +8,7 @@ export default {
   },
   index: {
     about: {
-      title: 'The software',
+      title: 'The Software',
       read_more: 'Read more',
       cloud: {
         title: 'Cloud',
