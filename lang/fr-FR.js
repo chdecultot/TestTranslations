@@ -17,7 +17,7 @@ export default {
       },
       open_source: {
         title: 'Open-source',
-        content: 'Le code source de Dokos est entièrement disponible sur Gitlab sous licence GNUGPLv3'
+        content: 'Le code source de Dokos est entièrement disponible sur Gitlab sous licence MIT'
       },
       project: {
         title: 'Le projet',
