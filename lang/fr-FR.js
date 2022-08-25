@@ -9,7 +9,7 @@ export default {
   },
   index: {
     about: {
-      title: 'Le logiciel',
+      title: 'Le Logiciel',
       read_more: 'En savoir plus',
       cloud: {
         title: 'Cloud',
