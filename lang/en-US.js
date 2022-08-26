@@ -27,7 +27,7 @@ export default {
   },
   cloud: {
     title: 'The latest web and cloud technologies',
-    contact: 'Contact us',
+    contact: 'Contact Us',
     contact_message: 'You have any question regarding the technologies underlying Dokos ?'
   },
   open_source: {
