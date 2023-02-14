@@ -13,7 +13,7 @@ export default {
       read_more: 'En savoir plus',
       cloud: {
         title: 'Cloud',
-        content: 'Dokos utilise les dernières technologies web et cloud pour garantir une plateforme sécurisée, fiable et performante'
+        content: 'Dokos utilise les dernières technologies web et cloud pour garantir une plateforme sécurisée, fiable et performante.'
       },
       open_source: {
         title: 'Open-source',
