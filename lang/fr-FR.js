@@ -3,7 +3,7 @@ export default {
     frequently_asked_questions: 'Questions posées fréquemment',
     terms_and_conditions: 'Conditions générales',
     security_and_privacy: 'Sécurité et confidentialité',
-    jobs: 'Recrutements',
+    jobs: 'Recrutement',
     legal_mentions: 'Mentions légales',
     become_a_partner: 'Devenez partenaire'
   },
