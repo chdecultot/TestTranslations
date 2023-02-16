@@ -1,6 +1,6 @@
 export default {
   footer: {
-    frequently_asked_questions: 'Questions posées fréquemment',
+    frequently_asked_questions: 'FAQ',
     terms_and_conditions: 'Conditions générales',
     security_and_privacy: 'Sécurité et confidentialité',
     jobs: 'Recrutement',
